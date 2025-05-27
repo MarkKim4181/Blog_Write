@@ -1,0 +1,28 @@
+{
+  "accounts": [
+    {
+      "username": "rxd0119",
+      "password": "rxd0119@tw++",
+      "nickname": "rxd0119",
+      "blogs": [
+        {
+          "id": "rxd0119",
+          "name": "rxd0119"
+        }
+      ]
+    },
+    {
+      "username": "hellomark",
+      "password": "oo00ppll--==",
+      "nickname": "hellomark",
+      "blogs": []
+    },
+    {
+      "username": "sanneri1",
+      "password": "oo00ppll--==",
+      "nickname": "sanneri1",
+      "blogs": []
+    }
+  ],
+  "current_account": "sanneri1"
+}
